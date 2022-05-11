@@ -14,4 +14,4 @@ Eddy's folder for unsupervised learning homework
 - Further reduction was done using t-SNE on the principal components
 ### Clustering
 - K-means was used to identify clusters
-- The optimal value for k appears to be 4 which suggests that the currencies can be separated into 4 classes based on the given features
+- For this data, clustering does not seem possible
