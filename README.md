@@ -1,5 +1,8 @@
 # unsupervised-ml-challenge
 Eddy's folder for unsupervised learning homework
+
+![image](https://user-images.githubusercontent.com/95975931/192189976-99345baa-36dd-4ad9-b5d6-596f3c4b8ca0.png)
+
 ## Cryptocurrency Clusters
 ### Background
 - You are on the Advisory Services Team of a financial consultancy. One of your clients, a prominent investment bank, is interested in offering a new cryptocurrency investment portfolio for its customers. The company, however, is lost in the vast universe of cryptocurrencies. They’ve asked you to create a report that includes what cryptocurrencies are on the trading market and determine whether they can be grouped to create a classification system for this new investment.
